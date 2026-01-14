@@ -2,6 +2,8 @@
 
 Collect voltages and drop bursts
 
+[]()
+
 _for monome crow_
 
 v1.0.0
@@ -34,3 +36,17 @@ v1.0.0
 -- s 0 1 s y s t e m
 -- cat.no: s02system
 ```
+
+Hear it:
+
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=5354887/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://s01system.bandcamp.com/track/trinket-collector">Trinket Collector by s01system</a></iframe>
+
+Quickstart:
+
+- Go to [web druid](https://dessertplanet.github.io/web-druid/)
+- Plug in your crow and hit 'connect' in the bottom-left corner
+- Toggle the editor on in the top-right corner
+- Paste [the script](https://raw.githubusercontent.com/s01system/trinket-collector/refs/heads/main/trinket_collector.lua) into the editor
+- Hit "run" or "upload"
+- Feed voltages into crow input one, and triggers into crow input two
+- Pick up after your crow
