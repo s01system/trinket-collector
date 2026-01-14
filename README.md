@@ -37,9 +37,7 @@ v1.0.0
 -- cat.no: s02system
 ```
 
-Hear it:
-
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/track=5354887/size=large/bgcol=333333/linkcol=0f91ff/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://s01system.bandcamp.com/track/trinket-collector">Trinket Collector by s01system</a></iframe>
+Hear it in action over [on Bandcamp](https://s01system.bandcamp.com/track/trinket-collector).
 
 Quickstart:
 
