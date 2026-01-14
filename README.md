@@ -2,7 +2,7 @@
 
 Collect voltages and drop bursts
 
-[]()
+![](./flap.gif)
 
 _for monome crow_
 
